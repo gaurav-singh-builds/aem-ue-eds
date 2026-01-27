@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-ue-eds--gaurav-singh-builds.aem.live/sitemap.xml
