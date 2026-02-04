@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/wknd-xwalk/:/",
-    "/content/wknd-xwalk/configuration:/.helix/config.json",
-    "/content/wknd-xwalk/metadata:/metadata.json",
-    "/content/wknd-xwalk/redirects:/redirects.json"
+    "/content/cg-invent-frog-ue-eds-demo/:/",
+    "/content/cg-invent-frog-ue-eds-demo/configuration:/.helix/config.json",
+    "/content/cg-invent-frog-ue-eds-demo/metadata:/metadata.json",
+    "/content/cg-invent-frog-ue-eds-demo/redirects:/redirects.json"
   ],
   "includes": [
-    "/content/wknd-xwalk/"
+    "/content/cg-invent-frog-ue-eds-demo/"
   ]
 }
